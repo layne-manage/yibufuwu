@@ -1,1 +1,11 @@
 .DS_Store
+
+# 内部素材库(本地保留,不提交)
+_承接方式素材库.md
+_权威背书素材库.md
+_背书素材库.md
+_build_split.py
+拆分总表.csv
+拆分说明.md
+文章清单.md
+robots.txt
